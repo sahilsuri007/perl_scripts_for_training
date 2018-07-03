@@ -13,4 +13,3 @@ use strict;
 use 5.010;
 
 say "Hello World. I'm Sahil"; 
-say "Good Day";
